@@ -1,0 +1,9 @@
+{
+	"name": "project-euler",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:ree17017/project-euler.git",
+	"author": "Joshua Reed <reedjo@dnb.com>",
+	"license": "MIT",
+	"scripts": {}
+}
