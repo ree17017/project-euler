@@ -7,11 +7,11 @@ let second = 1;
 let third = 0;
 let sum = 0;
 
-for (let i = 0; i <= 40; i++) {
+for (let i = 0; i <= 000; i++) {
 	third = first + second;
 	second = first;
 	first = third;
-	if (third % 2 === 0 && sum < 4000000) {
+	if (third % 2 === 0) {
 		sum = third + sum;
 	}
 }
